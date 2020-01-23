@@ -4310,3 +4310,9 @@
 			}
 
 		}
+
+	/* Addons */
+	.thankyou_message {
+		margin: 20px;
+		text-align: center;
+	}
