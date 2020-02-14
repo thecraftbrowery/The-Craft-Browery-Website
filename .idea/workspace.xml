@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="340ea0af-940d-4b8a-a273-732e79fcd020" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/images/katelyn.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aftercare.html" beforeDir="false" afterPath="$PROJECT_DIR$/aftercare.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+=======
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/process.html" beforeDir="false" afterPath="$PROJECT_DIR$/process.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
@@ -48,8 +51,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="437">
               <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+=======
+            <state relative-caret-position="1250">
+              <caret line="124" column="30" lean-forward="true" selection-start-line="124" selection-start-column="33" selection-end-line="125" selection-end-column="26" />
+>>>>>>> origin/master
               <folding>
                 <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -102,9 +110,15 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="134" />
     <option name="y" value="23" />
     <option name="width" value="1546" />
+=======
+    <option name="x" value="831" />
+    <option name="y" value="23" />
+    <option name="width" value="849" />
+>>>>>>> origin/master
     <option name="height" value="980" />
   </component>
   <component name="ProjectView">
@@ -172,15 +186,22 @@
       <updated>1579742343222</updated>
       <workItem from="1579742345049" duration="2928000" />
       <workItem from="1580337308277" duration="5892000" />
-      <workItem from="1581638285910" duration="822000" />
+      <workItem from="1581638285910" duration="1071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="18058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="23" width="1546" height="980" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="16471000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="831" y="23" width="849" height="980" extended-state="0" />
+>>>>>>> origin/master
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16755319" />
@@ -294,8 +315,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="437">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+=======
+        <state relative-caret-position="1250">
+          <caret line="124" column="30" lean-forward="true" selection-start-line="124" selection-start-column="33" selection-end-line="125" selection-end-column="26" />
+>>>>>>> origin/master
           <folding>
             <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
