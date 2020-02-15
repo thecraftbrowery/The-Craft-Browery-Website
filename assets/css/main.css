@@ -3100,7 +3100,7 @@
 			background-color: #000;
 			color: #bfbfbf;
 			background-image: url(../../images/bg.jpg);
-			background-size: cover;
+			background-size: 300px 100px;
 			background-attachment: fixed;
 			background-position: center;
 			position: relative;
