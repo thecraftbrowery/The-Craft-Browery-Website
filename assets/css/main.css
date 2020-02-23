@@ -1641,7 +1641,9 @@
 	}
 
 	a {
-		text-decoration: underline;
+		text-decoration: none;
+		color: black;
+		font-weight: 400;
 	}
 
 		a:hover {
@@ -1780,9 +1782,9 @@
 		color: #555;
 	}
 
-	a {
-		color: #8a4680;
-	}
+	/*a {*/
+		/*color: #8a4680;*/
+	/*}*/
 
 	strong, b {
 		color: #555;
@@ -2897,9 +2899,9 @@
 				color: #000;
 			}
 
-			.wrapper.style2 a {
-				color: #8a4680;
-			}
+			/*.wrapper.style2 a {*/
+				/*color: #8a4680;*/
+			/*}*/
 
 			.wrapper.style2 strong, .wrapper.style2 b {
 				color: #000;
@@ -3097,9 +3099,9 @@
 			}
 
 		.wrapper.style3 {
-			background-color: #000;
+			background-color: #000 !important;
 			color: #bfbfbf;
-			background-image: url(../../images/woman1.png);
+			background-image: url(../../images/woman-in-gold-colored-diagonal-earrings-3536991.jpg);
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
@@ -3110,9 +3112,9 @@
 				color: #ffffff;
 			}
 
-			.wrapper.style3 a {
-				color: #8a4680;
-			}
+			/*.wrapper.style3 a {*/
+				/*color: #8a4680;*/
+			/*}*/
 
 			.wrapper.style3 strong, .wrapper.style3 b {
 				color: #ffffff;
@@ -3998,11 +4000,20 @@
 /* Banner */
 
 	.banner {
-		background-color: #8a4680;
-		color: #e2d1df;
+		/*background-image: url(../../images/close-up-photo-of-woman-looking-away-2600349.jpg);*/
+		color: black;
 		padding: 8em 0;
 		position: relative;
 	}
+
+		/*.layer {*/
+			/*background-color: rgba(0, 0, 0, 0.4);*/
+			/*position: absolute;*/
+			/*top: 0;*/
+			/*left: 0;*/
+			/*width: 100%;*/
+			/*height: 100%;*/
+		/*}*/
 
 		.banner input, .banner select, .banner textarea {
 			color: #ffffff;
@@ -4196,6 +4207,7 @@
 				text-decoration: none;
 			}
 
+			/*black magic*/
 			.banner > article img {
 				display: none;
 			}

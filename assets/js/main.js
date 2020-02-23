@@ -199,6 +199,7 @@ var settings = {
 						$img = $slide.find('img');
 
 					// Slide.
+					// black magic
 						$slide
 							.css('background-image', 'url("' + $img.attr('src') + '")')
 							.css('background-position', ($slide.data('position') ? $slide.data('position') : 'center'));
