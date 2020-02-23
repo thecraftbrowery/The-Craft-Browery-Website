@@ -4283,6 +4283,12 @@
 
 		}
 
+		@media screen and (max-width: 411px) {
+			.banner > article h2 {
+				font-size: 2em;
+			}
+		}
+
 		/*@media screen and (max-width: 736px) {*/
 
 			/*.banner > article .inner {*/
