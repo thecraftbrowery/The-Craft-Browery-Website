@@ -4364,3 +4364,15 @@
 	.image-content{
 		text-align: center;
 	}
+
+	.image-resize {
+		width: 300px;
+	}
+
+	@media screen and (max-width: 736px) {
+
+		.image-resize {
+			width: 100%;
+		}
+
+	}
