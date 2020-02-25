@@ -3377,7 +3377,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.wrapper > .inner {
-				width: 75rem;
+				width: 65rem;
 			}
 
 		}
@@ -4267,6 +4267,12 @@
 			}
 		}
 
+		@media screen and (max-width: 768px) {
+			.banner > article h2 {
+				font-size: 4em;
+			}
+		}
+
 		@media screen and (max-width: 736px) {
 
 			.banner > article .inner {
@@ -4274,16 +4280,22 @@
 			}
 
 			.banner > article p {
+				margin-top: 3rem;
 				margin-bottom: 1rem;
 			}
 
 			.banner > article h2 {
-				font-size: 4em;
+				font-size: 3em;
+			}
+
+			.button {
+				width: 75%;
+				margin: 10px;
 			}
 
 		}
 
-		@media screen and (max-width: 411px) {
+		@media screen and (max-width: 414px) {
 			.banner > article h2 {
 				font-size: 2em;
 			}
